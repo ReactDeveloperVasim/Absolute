@@ -1,15 +1,13 @@
 import React from "react";
-import { GridItem } from "./components/GridItem";
-import { Card, CardContent } from "@mui/material";
+import {  } from "@mui/material";
+import { Landing } from "./components/Landing";
 
 function App() {
   return (
-    <Card>
-      <CardContent>
+   
 
-   <GridItem />
-      </CardContent>
-    </Card>
+  <Landing />
+   
   );
 }
 

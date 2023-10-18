@@ -1,0 +1,22 @@
+export const NavData1=[
+    {
+        path:"/",
+        label:"Home"
+    },
+    {
+        path:"/counter",
+        label:"Counter"
+    },
+    {
+        path:"/product",
+        label:"Product"
+    },
+    {
+        path:"/service",
+        label:"Service"
+    },
+    {
+        path:"/contact",
+        label:"Contact"
+    },
+]
